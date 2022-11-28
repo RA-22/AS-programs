@@ -42,6 +42,8 @@ Module Program
         Console.WriteLine("The number of numbers is: " & numcount)
         Console.WriteLine("The number of special characters including space is: " & schrcount)
 
+        console.readkey()
+
 
 
     End Sub
